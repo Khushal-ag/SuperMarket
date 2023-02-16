@@ -1,10 +1,10 @@
-# SuperMarket
-
 <div align='center'>
 
 ![][views] ![][stars] ![][forks] ![][issues] ![][license] ![][repo-size]
 
 </div>
+
+# SuperMarket
 
 ## Building from Source
 
