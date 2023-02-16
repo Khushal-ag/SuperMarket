@@ -1,5 +1,11 @@
 # SuperMarket
 
+<div align='center'>
+
+![][views] ![][stars] ![][forks] ![][issues] ![][license] ![][repo-size]
+
+</div>
+
 ## Building from Source
 
 <br>
@@ -15,12 +21,16 @@ khushal-ag@arch:~$ cd SuperMarket
 
 ```js
 MONGO_URI = "_endpoint_";
-PORT = "_port number_"
-```
-
-- Run the app with VS Code or the command line:
-
-```js
+PKhusahl-ag/SuperMarketun the app with VS CKhusahl-ag/SuperMarketjs
 khushal-ag@arch:~/SuperMarket$ npm i
 khushal-ag@arch:~/SuperMarket$ npm run dev
 ```
+
+<!----------------------------------{ Labels }--------------------------------->
+
+[views]: https://komarev.com/ghpvc/?username=SuperMarket&label=view%20counter&color=red&style=flat
+[repo-size]: https://img.shields.io/github/repo-size/Khushal-ag/SuperMarket
+[issues]: https://img.shields.io/github/issues-raw/Khushal-ag/SuperMarket
+[license]: https://img.shields.io/github/license/Khushal-ag/SuperMarket
+[forks]: https://img.shields.io/github/forks/Khushal-ag/SuperMarket?style=flat
+[stars]: https://img.shields.io/github/stars/Khushal-ag/SuperMarket
