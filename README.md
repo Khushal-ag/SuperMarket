@@ -21,7 +21,12 @@ khushal-ag@arch:~$ cd SuperMarket
 
 ```js
 MONGO_URI = "_endpoint_";
-PKhusahl-ag/SuperMarketun the app with VS CKhusahl-ag/SuperMarketjs
+PORT = "_port number_"
+```
+
+- Run the app with VS Code or with the command line:
+
+```js
 khushal-ag@arch:~/SuperMarket$ npm i
 khushal-ag@arch:~/SuperMarket$ npm run dev
 ```
